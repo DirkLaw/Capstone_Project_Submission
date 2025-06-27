@@ -1,1 +1,3 @@
 # Capstone_Project_Submission
+
+Objective: The capstone project by Group 4 aimed to develop an AI-powered cash flow forecasting tool to enhance financial management for clients, using Apple Inc. as a case study due to its stable financial performance and extensive historical data. The tool integrates data preprocessing, linear regression modeling, sensitivity analysis, interactive visualizations, and an LLM-powered chatbot to provide accurate cash flow predictions and user-friendly insights for strategic financial planning.
